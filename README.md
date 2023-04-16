@@ -1,1 +1,2 @@
 # ADSB_FIMP_coverage_volume_simulation
+This project aims at demonstrating the coverage volume for an Air Traffic Services Surveillance system, in this case ADS-B coverage volume for the Mauritian FIR. The obtained signal strength and LOS were then used to compute the link budget and thus providing a general idea of the tecnical feasibility of the project as well as predict blind spots due to attenuation as well as terrain. 
